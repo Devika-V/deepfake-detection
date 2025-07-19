@@ -50,38 +50,6 @@ pip install -r requirements.txt
 
 ---
 
-✅ Backend Setup (For Collaborator)
-
-Your task is to:
-
-1. Create a backend/ folder
-
-
-2. Add a FastAPI backend (app.py) that:
-
-Loads the model like this:
-
-from classifiers import Meso4
-model = Meso4()
-model.load("weights/Meso4_DF.h5")
-
-Accepts an image upload
-
-Returns a JSON response like:
-
-{
-  "label": "REAL",
-  "score": 0.98
-}
-
-
-
-3. Push the backend code back to this repo
-
-
-
-
----
 
 🔮 Future Plans
 
@@ -90,6 +58,8 @@ Extend detection to video frames
 Integrate with a browser extension
 
 Deploy the backend to cloud hosting
+
+Extend it to mobile app
 
 
 
@@ -100,6 +70,7 @@ Deploy the backend to cloud hosting
 Devika V → Set up the MesoNet model and repo
 
 Nimah Zayn → Backend & API integration with FastAPI
+
 
 
 
