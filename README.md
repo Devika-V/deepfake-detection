@@ -73,7 +73,7 @@ Anagha Anurag - Frontend
 
 Nimah Zayn - Backend & API integration with FastAPI
 
-Meera Lakshman Rao - Documentation
+Meera Lakshman Rao - Documentation and frontend
 
 
 
