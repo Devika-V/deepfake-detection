@@ -67,9 +67,11 @@ Extend it to mobile app
 
 🤝 Contributors
 
-Devika V → Set up the MesoNet model and repo
+Devika V - Set up the MesoNet model and repo
+Anagha Anurag - Frontend
+Nimah Zayn - Backend & API integration with FastAPI
+Meera Lakshman Rao - Documentation
 
-Nimah Zayn → Backend & API integration with FastAPI
 
 
 
